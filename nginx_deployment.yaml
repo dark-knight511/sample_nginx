@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: argocd
+  name: argocd-1
 ---
 # This is a placeholder for the actual Argo CD manifests
 # We'll use a kustomize base to include all necessary resources
